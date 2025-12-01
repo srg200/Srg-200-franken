@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Pro «200 Franken sind genug!» – SRG-Initiative</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Argumente für die Volksinitiative «200 Franken sind genug!» (SRG-Initiative).">
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
+    header {
+      background: #111827;
+      padding: 1.8rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0 0 0.4rem 0;
+      font-size: 1.9rem;
+    }
+    header p {
+      margin: 0;
+      font-size: 0.95rem;
+      opacity: 0.9;
+    }
+    main {
+      max-width: 900px;
+      margin: 1.5rem auto 2rem auto;
+      padding: 1.5rem;
+      background: #020617;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.4);
+    }
+    h2 {
+      margin-top: 1.6rem;
+      font-size: 1.4rem;
+      border-bottom: 2px solid #1f2937;
+      padding-bottom: 0.3rem;
+    }
+    h3 {
+      margin-top: 1.1rem;
+      font-size: 1.1rem;
+    }
+    p {
+      margin: 0.4rem 0;
+    }
+    ul {
+      margin: 0.4rem 0 0.8rem 1.2rem;
+    }
+    .tag {
+      display: inline-block;
+      font-size: 0.8rem;
+      padding: 0.1rem 0.6rem;
+      border-radius: 999px;
+      background: #22c55e1a;
+      border: 1px solid #22c55e;
+      color: #bbf7d0;
+      margin-right: 0.4rem;
+    }
+    .box {
+      border-left: 4px solid #22c55e;
+      background: #22c55e0d;
+      padding: 0.8rem 1rem;
+      margin: 0.9rem 0;
+      border-radius: 6px;
+    }
+    .meta {
+      font-size: 0.8rem;
+      color: #9ca3af;
+    }
+    .highlight {
+      font-weight: 600;
+      color: #bbf7d0;
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      max-width: 900px;
+      margin: 0 auto 2rem auto;
+      padding: 0 1.5rem;
+      font-size: 0.8rem;
+      color: #9ca3af;
+      text-align: center;
+    }
+    @media (max-width: 600px) {
+      main, footer {
+        margin: 0.8rem;
+        padding: 1rem;
+      }
+      header {
+        padding: 1.4rem 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Pro «200 Franken sind genug!»</h1>
+    <p>Warum die SRG-Initiative eine sinnvolle Entlastung für Haushalte und Unternehmen ist.</p>
+  </header>
+
+  <main>
+    <section>
+      <p class="meta">
+        Stand: Dezember 2025 · Diese Seite stellt bewusst nur die <strong>Pro-Argumente</strong> zur Volksinitiative
+        «200 Franken sind genug! (SRG-Initiative)» dar.
+      </p>
+    </section>
+
+    <section>
+      <h2>1. Worum geht es bei der Initiative?</h2>
+      <p>
+        Die Volksinitiative <strong>«200 Franken sind genug!»</strong> will die Radio- und Fernsehabgabe (Serafe)
+        für Privathaushalte von heute rund <strong>335 CHF pro Jahr</strong> auf maximal <strong>200 CHF pro Jahr</strong> senken.
+      </p>
+      <p>
+        Zusätzlich sollen <strong>Unternehmen vollständig von der Abgabe befreit</strong> werden.
+      </p>
+      <div class="box">
+        <span class="highlight">Kernidee:</span> Gleicher oder schlankerer Service public – aber zu deutlich tieferen Kosten
+        für Bevölkerung und Wirtschaft.
+      </div>
+    </section>
+
+    <section>
+      <h2>2. Entlastung der Haushalte</h2>
+      <span class="tag">Pro</span>
+      <div class="box">
+        <h3>2.1 335 CHF sind spürbar – 200 CHF sind fairer</h3>
+        <p>
+          Die heutige Abgabe von 335 CHF pro Jahr ist für viele Haushalte keine Kleinigkeit. Sie fällt
+          <strong>unabhängig vom Einkommen</strong> an: Studierende, Lehrlinge, junge Familien oder Rentnerinnen bezahlen
+          denselben Betrag wie sehr gut Verdienende.
+        </p>
+        <p>
+          Eine Senkung auf 200 CHF:
+        </p>
+        <ul>
+          <li>entlastet finanziell schwächere Haushalte <strong>verhältnismässig stärker</strong>,</li>
+          <li>reduziert Fixkosten, die man nicht umgehen kann,</li>
+          <li>ist ein klares Signal, dass Politik und Staat mit dem Geld der Bürgerinnen und Bürger sorgsam umgehen.</li>
+        </ul>
+      </div>
+
+      <div class="box">
+        <h3>2.2 Medientechnik hat sich verändert</h3>
+        <p>
+          Viele Menschen informieren sich heute über <strong>Streaming, Social Media und Onlineportale</strong>.
+          Trotz dieser Veränderungen ist die Abgabe hoch geblieben.
+        </p>
+        <p>
+          Die Initiative trägt dem Rechnung: Wer schon für mehrere Streaming-Dienste bezahlt, soll nicht zusätzlich mit einer
+          sehr hohen Zwangsabgabe belastet werden.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>3. Fairness gegenüber Unternehmen</h2>
+      <span class="tag">Pro</span>
+      <div class="box">
+        <h3>3.1 Keine Doppelbelastung mehr</h3>
+        <p>
+          Heute zahlen viele Unternehmen eine zusätzliche Abgabe, obwohl ihre Mitarbeitenden privat bereits die
+          volle Haushaltsabgabe entrichten. Damit entstehen <strong>faktisch doppelte Kosten</strong> für denselben Service.
+        </p>
+        <p>
+          Die Initiative beendet diese Doppelbelastung und sorgt dafür, dass:
+        </p>
+        <ul>
+          <li>vor allem <strong>Kleine und mittlere Unternehmen (KMU)</strong> spürbar entlastet werden,</li>
+          <li>Betriebe mehr Geld für Investitionen, Ausbildung und Arbeitsplätze haben,</li>
+          <li>die Medienabgabe wieder als <strong>Leistung für Bürgerinnen und Bürger</strong> verstanden wird – und nicht als Firmensteuer.</li>
+        </ul>
+      </div>
+
+      <div class="box">
+        <h3>3.2 Standortattraktivität Schweiz</h3>
+        <p>
+          Tiefe Fixkosten sind ein Vorteil im internationalen Wettbewerb. Eine Senkung bzw. Abschaffung der
+          Unternehmensabgabe stärkt <strong>die Attraktivität des Wirtschaftsstandorts Schweiz</strong> und sendet ein
+          wirtschaftsfreundliches Signal – insbesondere an innovative Start-ups und junge Unternehmen.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>4. Effizienz und Fokussierung der SRG</h2>
+      <span class="tag">Pro</span>
+      <div class="box">
+        <h3>4.1 Weniger Geld erzwingt klare Prioritäten</h3>
+        <p>
+          Die SRG verfügt heute über ein Budget von über einer Milliarde Franken. Mit so viel Geld ist die Gefahr gross,
+          dass sich Strukturen aufblähen und Angebote entstehen, die nicht unbedingt zum <strong>Kernauftrag</strong> gehören.
+        </p>
+        <p>
+          Eine Reduktion der Mittel zwingt die SRG dazu:
+        </p>
+        <ul>
+          <li>den Fokus auf <strong>Information, Bildung und Kultur</strong> zu legen,</li>
+          <li>auf Luxusprojekte und teure Doppelspurigkeiten zu verzichten,</li>
+          <li>Programmschemata zu verschlanken und effizienter zu arbeiten.</li>
+        </ul>
+      </div>
+
+      <div class="box">
+        <h3>4.2 Mehr Anreiz für Innovation</h3>
+        <p>
+          Wenn Mittel knapper sind, steigt der Druck, <strong>innovative Formen</strong> von Journalismus und Unterhaltung zu entwickeln,
+          die zielgerichteter und kostengünstiger sind. So kann die SRG moderner und näher am Publikum werden statt immer weiterzuwachsen.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>5. Stärkung der privaten Medien</h2>
+      <span class="tag">Pro</span>
+      <div class="box">
+        <h3>5.1 Mehr Raum für Vielfalt</h3>
+        <p>
+          Heute dominiert die SRG mit ihrem gebührenfinanzierten Angebot den Schweizer Medienmarkt. Private Medienhäuser
+          konkurrieren mit einem öffentlich finanzierten Giganten – das ist schwierig, vor allem in kleineren Sprachräumen.
+        </p>
+        <p>
+          Eine kleinere SRG bedeutet:
+        </p>
+        <ul>
+          <li><strong>mehr Platz</strong> für private Radio- und TV-Sender,</li>
+          <li>bessere Chancen für unabhängige Online-Medien,</li>
+          <li>eine vielfältigere Medienlandschaft, in der nicht ein einziger Anbieter den Ton angibt.</li>
+        </ul>
+      </div>
+
+      <div class="box">
+        <h3>5.2 Wettbewerb statt Monopol</h3>
+        <p>
+          Starke staatlich finanzierte Medien können private Angebote verdrängen. Durch die Begrenzung der Mittel wird der
+          <strong>Wettbewerb</strong> fairer: Private Medien erhalten mehr Chancen, eigene Inhalte zu entwickeln und ein
+          breites Publikum zu erreichen.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>6. Demokratische Kontrolle über die Abgabe</h2>
+      <span class="tag">Pro</span>
+      <div class="box">
+        <h3>6.1 Das Volk setzt eine klare Obergrenze</h3>
+        <p>
+          Mit der Initiative legt nicht eine Behörde, sondern das <strong>Stimmvolk</strong> selbst fest, wie hoch die
+          Medienabgabe maximal sein darf. Damit wird die Finanzierung der SRG <strong>direkt demokratisch legitimiert</strong>.
+        </p>
+        <p>
+          Das stärkt:
+        </p>
+        <ul>
+          <li>das Vertrauen in die Medienfinanzierung,</li>
+          <li>die Verantwortung der Politik gegenüber der Bevölkerung,</li>
+          <li>die Transparenz in der Diskussion über den Service public.</li>
+        </ul>
+      </div>
+
+      <div class="box">
+        <h3>6.2 Klare, verständliche Regelung</h3>
+        <p>
+          Statt komplexer Gebührenmodelle mit Firmenabgaben und Ausnahmen gibt es eine einfache Regel:
+          <strong>Maximal 200 CHF pro Haushalt, keine Abgabe für Unternehmen.</strong> Das ist nachvollziehbar und einfach zu kommunizieren.
+        </p>
+      </div>
+    </section>
+
+    <section>
+      <h2>7. Kurz zusammengefasst</h2>
+      <div class="box">
+        <p><span class="highlight">Die Initiative «200 Franken sind genug!» bedeutet aus Pro-Sicht:</span></p>
+        <ul>
+          <li>spürbare Entlastung der Privathaushalte,</li>
+          <li>Abschaffung der umstrittenen Unternehmensabgabe,</li>
+          <li>schlankere und effizientere SRG,</li>
+          <li>mehr Chancen für private Medien,</li>
+          <li>klare demokratische Obergrenze für die Medienabgabe.</li>
+        </ul>
+      </div>
+      <p class="meta">
+        Hinweis: Diese Seite zeigt bewusst <strong>nur die Befürworter-Sicht</strong>. Für eine ausgewogene Meinungsbildung
+        sollen zusätzlich auch Contra-Argumente und offizielle Unterlagen (z.&nbsp;B. Bundesrat, Bundesblatt) gelesen werden.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 · Private Pro-Seite zur Volksinitiative «200 Franken sind genug!» – nur Befürworter-Argumente.</p>
+  </footer>
+</body>
+</html>
